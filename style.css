@@ -1,0 +1,30 @@
+body{
+    color: DeepPink;
+  }
+  
+  background{
+    color: palevioletred;
+  }
+  body{
+    background-color: Beige;
+  }
+  
+  img{
+     width: 50px;
+    margin-left: 50px;
+  }
+  
+  h1{
+    text-align: center
+  }
+  
+  th{
+    color: white;
+     background-color:pink;
+  
+  }
+  td{
+    color: black;
+     background-color:AntiqueWhite	;
+    
+  }
